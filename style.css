@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+.zenzone {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+}
+.sky {
+    background-color: #86A0A2;
+    height: 50%;
+    width: 100%;
+}
+.earth {
+    background-color: #6DD5A5;
+    height: 50%;
+    width: 100%;
+}
+.tent {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    width: 650px;
+}
+.water {
+    position: absolute;
+    width: 1123px;
+}
+.cloud {
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    width: 413px;
+}
+.sun {
+    position: absolute;
+    right: 50px;
+    top: 50px;
+}
+.bird {
+    position: absolute;
+    width: 200px;
+    top: 200px;
+    left: 40px;
+}
