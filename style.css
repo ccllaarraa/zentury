@@ -43,3 +43,7 @@ body {
     top: 200px;
     left: 40px;
 }
+
+.draggable { 
+    position: absolute;
+}
